@@ -1,0 +1,1 @@
+Well, in this file you find all the useful commands that you would use 90% of the times. Just rememeber these and you are ready to version control. 
